@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 impress.js
 ============
 
@@ -301,3 +302,6 @@ Copyright 2011-2012 Bartek Szopka
 Released under the MIT and GPL (version 2 or later) Licenses.
 
 
+=======
+# leiansis-presentation
+>>>>>>> aba704974b612086664ef75bc5a146e434f132d8
